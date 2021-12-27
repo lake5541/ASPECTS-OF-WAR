@@ -1,4 +1,4 @@
-# ASPECTS OF WAR GOLD EDITION
+# ASPECTS OF WAR GOLD EDITION FOR FALLOUT 3 GOG
 THE PROJECT IS COMPLETE AND READY TO PLAY. GOODBYE
 Very good hand done master mod by myself for the project goal of better Ai and its fun
 This game addition uses thinking scripts i made from hand for the Fallout3 game engine.
